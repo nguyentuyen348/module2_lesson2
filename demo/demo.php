@@ -9,7 +9,7 @@
 </head>
 <body>
 <?php
-/*class Fruit{
+class Fruit{
     //properties:thuoc tinh
     public $name;
     public $color;
@@ -20,9 +20,9 @@
         $this->name=$name;
         $this->color=$color;
     }
- /*   function __destruct(){
+    function __destruct(){
         echo "the fruit is {$this->name}";
-    }*/
+    }
 
 
     //methods:phuong thuc
